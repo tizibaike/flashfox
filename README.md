@@ -19,6 +19,6 @@
 - Advance：￥72/月，500G流量/月。
 - Premium：￥125/月，1000G流量/月。
 
-https://raw.githubusercontent.com/tizibaike/flashfox/refs/heads/main/9375.png
+[img]https://raw.githubusercontent.com/tizibaike/flashfox/refs/heads/main/9375.png[img]
 
 https://raw.githubusercontent.com/tizibaike/flashfox/refs/heads/main/1753.png
