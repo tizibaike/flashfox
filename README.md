@@ -23,4 +23,4 @@
 
 ![替代文本](https://raw.githubusercontent.com/tizibaike/flashfox/refs/heads/main/images/9375.png)
 
-![替代文本](https://raw.githubusercontent.com/tizibaike/flashfox/refs/heads/main/images/1753.png)
+![替代文本](https://raw.githubusercontent.com/tizibaike/flashfox/refs/heads/main/images/1755.png)
