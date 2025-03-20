@@ -4,7 +4,7 @@
 
 闪狐云（FlashFox）是一家 2025 年开业的机场，采用BGP 入口 IPLC 专线网络，使用 Trojan 协议，1000 Mbps 高速带宽，即便在晚高峰时段，也不会限制速度，不限制 IP 和设备数量。
 
-官网地址：https://finalgo.xyz/yULjt
+官网地址：https://finalgo.xyz/RwSL82
 
 ## 闪狐云机场特色
 
